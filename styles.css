@@ -30,3 +30,9 @@ body {
 .square:hover {
 	transition-duration: 0s;
 }
+@media (max-width: 479.98px) {
+	.square {
+		width: 30px;
+		height: 30px;
+	}
+}
